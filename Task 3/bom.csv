@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U9, U4",2," Arduino Uno R3"
+"U10",1,"MCP23008-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"BAT4",1," 9V Battery"
+"M3",1," DC Motor"
+"U7",1," H-bridge Motor Driver"
+"U3",1," Temperature Sensor [TMP36]"
+"PIEZO1",1," Piezo"
